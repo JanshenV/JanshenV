@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JanshenV
-- 👀 I’m interested in Videogames and in the Creation of Videogames.
-- 🌱 I’m currently learning Python, HTML, CSS and how to create 3D and 2D Games on the Unity Platform
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Videogames and in developing websites.
+- 🌱 I’m currently learning Python, HTML, CSS, Javascript, ReactJs, PostgresSQL and the creation of  3D and 2D Games on the Unity Platform.
 - 📫 Reach me by Janshen.vbb@gmail.com
 
 <!---
