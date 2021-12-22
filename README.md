@@ -7,7 +7,7 @@ Estou em busca de uma primeira oportunidade de trabalho!
 
 Olá, meu nome é Janshen Vernon
 - Me interesso por videogames, desenvolver sites e consertar bugs
-- No momento, estou aprender e desenvolvendo nas seguintes tecnologias: Python, HTML, CSS, Javascript, ReactJs, PostgresSQL.
+- No momento, estou aprendendo e desenvolvendo nas seguintes tecnologias: Python, HTML, CSS, Javascript, ReactJs, PostgresSQL.
 - Qualquer coisa, me escreva: Janshen.vbb@gmail.com
 - Estou em busca de uma primeira oportunidade de trabalho!
 <!---
