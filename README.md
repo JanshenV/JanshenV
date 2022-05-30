@@ -8,7 +8,7 @@ Olá, meu nome é Janshen Vernon
 - Me interesso por videogames, em desenvolver páginas web e no conserto de bugs.
 - No momento, estou aprendendo e desenvolvendo nas seguintes tecnologias: Python, HTML, CSS, Javascript, ReactJs, PostgresSQL.
 - Qualquer coisa, me escreva: Janshen.vbb@gmail.com
-- Estou em busca de uma primeira oportunidade de trabalho!
+- Estou em busca de uma oportunidade de trabalho!
 <!---
 JanshenV/JanshenV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
